@@ -1,4 +1,4 @@
-#importing necessary packages
+
 from tkinter import *
 import random, string
 
